@@ -1,6 +1,6 @@
 👋 Hi, I’m @DaveRead
 
-👀 I’m interested in semantic technology and explainable machine learning
+👀 I’m interested in semantic technology, explainable machine learning, and historical computing.
 
 🌱 I’m currently learning to grow old gracefully
 
